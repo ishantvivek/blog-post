@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Blog post library based on Nuxt 3
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is a basic blog-post written on Nuxt(Vue) framework.
 
 ## Setup
 
