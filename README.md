@@ -1,6 +1,11 @@
 # Blog post library based on Nuxt 3
 
-This is a basic blog-post written on Nuxt(Vue) framework.
+This is a basic blog-post written on Nuxt(Vue) framework using Flowbite.
+
+Libraries used:
+
+* Tailwind CSS
+* FlowBite
 
 ## Setup
 
