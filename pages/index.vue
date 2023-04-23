@@ -1,6 +1,8 @@
 <template>
-    <div>
+    <div class="flex flex-row justify-between my-8 mx-auto text-indigo-blue dark:text-white">
         <Categories />
+        <Content />
+        <Tags />
     </div>
 </template>
 
