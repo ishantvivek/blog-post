@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-row justify-between my-8 mx-auto text-indigo-blue dark:text-white">
+    <div class="flex flex-row justify-between my-8 mx-auto text-indigo-blue dark:text-white mobile:flex-col">
         <Categories />
         <Content />
         <Tags />

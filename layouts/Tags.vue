@@ -1,5 +1,5 @@
 <template>
-    <aside class="sticky top-[8rem] flex flex-col p-3 flex-1 self-start items-center">
+    <aside class="sticky mobile:static top-[8rem] flex flex-col p-3 flex-1 self-start items-center">
         <div class="rounded-md border-grey-100 border border-indigo-blue dark:border-white py-4 px-6 max-w-xs">
             <h1 class="font-bold py-3">Tags</h1>
             <div class="flex flex-wrap gap-2">

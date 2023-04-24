@@ -1,5 +1,5 @@
 <template>
-    <aside class="sticky flex flex-col self-start p-3 mx-5 flex-1 top-[8rem] gap-20">
+    <aside class="sticky mobile:static flex flex-col self-start p-3 mx-5 flex-1 top-[8rem] gap-20">
         <div class="rounded-md border-grey-100 border border-indigo-blue dark:border-white py-4 px-6 max-w-xs">
             <h1 class="font-bold py-3">BlogPosts</h1>
             <span>
