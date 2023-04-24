@@ -11,7 +11,7 @@
         </div>
         <nav class="w-full md:block md:w-auto" id="navbar-default">
             <ul
-                class="flex flex-col items-center p-4 md:p-0 mt-4 font-medium border border-gray-100 rounded-lg md:flex-row md:space-x-8 md:mt-0 md:border-0 dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
+                class="flex flex-col items-center p-4 md:p-0 mt-4 font-medium border border-gray-100 rounded-lg md:flex-row md:space-x-8 md:mt-0 md:border-0 dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700 mobile:flex-row mobile:justify-between">
                 <li
                     class="text-indigo-blue p-3 rounded-xl hover:bg-purple-100 border-b-2 border-transparent hover:border-b-2 hover:border-dotted hover:border-indigo-600 dark:text-white dark:hover:bg-gray-700">
                     <NuxtLink to="/">
