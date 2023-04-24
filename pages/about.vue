@@ -1,6 +1,6 @@
 <template>
     <div
-        class="flex flex-col text-indigo-blue dark:text-white w-1/2 m-auto mt-6 gap-10 p-32 border-2 border-indigo-blue dark:border-white shadow-nav dark:shadow-nav-dark mobile:w-[60%] mobile:h-[100vw] mobile:p-16 mobile:h-full">
+        class="flex flex-col text-indigo-blue dark:text-white w-1/2 m-auto mt-6 gap-10 p-32 border-2 border-indigo-blue dark:border-white shadow-nav dark:shadow-nav-dark mobile:w-[80%] mobile:h-[100vw] mobile:p-16 mobile:h-full">
         <h1 class="text-xl font-bold">
             About us
         </h1>

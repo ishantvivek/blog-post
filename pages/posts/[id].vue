@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-col m-28 w-[40%] mx-auto text-indigo-blue dark:text-white">
+    <div class="flex flex-col m-28 w-[40%] mobile:w-[80%] mx-auto text-indigo-blue dark:text-white">
         <div class="text-3xl font-bold tracking-[.15em] my-3">A friend in need is a friend indeed</div>
         <span class="p-2 rounded w-fit bg-purple-100 dark:bg-gray-700">#tag1</span>
         <div class="py-4">
