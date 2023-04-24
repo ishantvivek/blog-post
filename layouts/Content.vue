@@ -22,7 +22,7 @@
                     <a href="#" class="underline underline-offset-2 decoration-1 hover:decoration-dotted">tag3,</a>
                     <a href="#" class="underline underline-offset-2 decoration-1 hover:decoration-dotted">tag4</a>
                 </div>
-                <a href="#" class="underline underline-offset-2 hover:decoration-dotted">Read more</a>
+                <NuxtLink to="/posts/1" class="underline underline-offset-2 hover:decoration-dotted">Read more</NuxtLink>
             </div>
         </div>
         <div class="my-8 border-2 border-indigo-blue dark:border-white px-8 py-3 w-full shadow-nav dark:shadow-nav-dark">
@@ -44,7 +44,7 @@
                     <a href="#" class="underline underline-offset-2 decoration-1 hover:decoration-dotted">tag3,</a>
                     <a href="#" class="underline underline-offset-2 decoration-1 hover:decoration-dotted">tag4</a>
                 </div>
-                <a href="#" class="underline underline-offset-2 hover:decoration-dotted">Read more</a>
+                <NuxtLink to="/posts/1" class="underline underline-offset-2 hover:decoration-dotted">Read more</NuxtLink>
             </div>
         </div>
         <div class="my-8 border-2 border-indigo-blue dark:border-white px-8 py-3 w-full shadow-nav dark:shadow-nav-dark">
@@ -66,7 +66,7 @@
                     <a href="#" class="underline underline-offset-2 decoration-1 hover:decoration-dotted">tag3,</a>
                     <a href="#" class="underline underline-offset-2 decoration-1 hover:decoration-dotted">tag4</a>
                 </div>
-                <a href="#" class="underline underline-offset-2 hover:decoration-dotted">Read more</a>
+                <NuxtLink to="/posts/1" class="underline underline-offset-2 hover:decoration-dotted">Read more</NuxtLink>
             </div>
         </div>
     </main>
